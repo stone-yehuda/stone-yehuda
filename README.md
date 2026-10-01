@@ -67,13 +67,6 @@ An original science-fantasy RTS I'm building in **Godot 4 / GDScript**, plus the
 - Migrating agent workflows onto LangGraph for better control, state, and evals
 - Getting Worldforge's 3D units and faction AI to a playable, watchable match
 
-### 📊 Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stone-yehuda&show_icons=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stone-yehuda&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><i>Always happy to talk GTM engineering, agent design, and AI in revenue teams.</i></p>

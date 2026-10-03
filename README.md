@@ -19,14 +19,25 @@ I work where **data, AI, and go-to-market** meet: production AI agents and autom
 
 ### Passion project: Worldforge 🎮
 
+<a href="https://github.com/stone-yehuda/worldforge-showcase"><img src="https://raw.githubusercontent.com/stone-yehuda/worldforge-showcase/main/assets/banner.jpg" alt="Worldforge" width="100%" /></a>
+
 An original science-fantasy RTS in **Godot 4 / GDScript**, plus the world and a novel set inside it.
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/stone-yehuda/worldforge-showcase/main/assets/ingame_battle.jpg" alt="Battle lines" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/stone-yehuda/worldforge-showcase/main/assets/ingame_base_raid.jpg" alt="Base raid" /></td>
+  </tr>
+</table>
 
 - 4 asymmetric factions, 65 unit chassis across 3 tiers, heroes, tech trees, and siege
 - Squad formations, an armor/ward combat model, knockback physics, and a 30 Hz sim
 - Enemy AI with its own economy and waves, plus headless AI-vs-AI balance tooling
 - Built with a **multi-agent workflow**: Claude Code, Codex, and Gemini CLI on one repo under shared rules
 
-<sub>Private while in active development.</sub>
+**[→ See the gallery: combat, bases, heroes, factions, concept art](https://github.com/stone-yehuda/worldforge-showcase)**
+
+<sub>Source is private while in active development.</sub>
 
 ### Stack
 
